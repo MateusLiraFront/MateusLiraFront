@@ -2,67 +2,30 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=24\&duration=3000\&pause=1000\&color=22D3EE\&center=true\&vCenter=true\&width=900\&lines=Front-End+Developer;React+%7C+TypeScript+%7C+JavaScript;Laravel+%7C+PHP+%7C+MySQL;Construindo+interfaces+modernas+e+responsivas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=24\&duration=3000\&pause=1000\&color=22D3EE\&center=true\&vCenter=true\&width=900\&lines=Front-End+Developer;Construindo+interfaces+modernas+e+responsivas)](https://git.io/typing-svg)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=24\&duration=3000\&pause=1000\&color=22D3EE\&center=true\&vCenter=true\&width=900\&lines=Front-End+Developer;React+%7C+TypeScript+%7C+JavaScript;Laravel+%7C+PHP+%7C+MySQL;Construindo+interfaces+modernas+e+responsivas)](https://git.io/typing-svg) -->
 
 </div>
 
 ---
 
 <h2 align="center">💻 Sobre Mim</h2>
+<div align="center">
 
 <div align="center">
 
-| 🚀 Especialidade | 💼 Cargo | 🎓 Formação |
-|:---:|:---:|:---:|
-| Front-End Development | Estagiário em Desenvolvimento de Software | ADS - UNINASSAU |
-
+<img src="https://img.shields.io/badge/🚀_ESPECIALIDADE-0891B2?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Front--End_Development-22D3EE?style=for-the-badge"/>
 </div>
 
+<br>
 <div align="center">
-
-| ⚛️ React | 📘 TypeScript | 🟨 JavaScript | 🌐 HTML5 | 🎨 CSS3 |
-|:---:|:---:|:---:|:---:|:---:|
-| ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-
+<img src="https://img.shields.io/badge/💼_CARGO-0891B2?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Estagiário_em_Desenvolvimento_de_Software-22D3EE?style=for-the-badge"/>
 </div>
-
-<div align="center">
-
-| 🅱️ Bootstrap | 🌊 Tailwind CSS |
-|:---:|:---:|
-| ✔️ | ✔️ |
-
-</div>
-
-<div align="center">
-
-| 🐘 PHP | 🔺 Laravel | 🔌 APIs REST |
-|:---:|:---:|:---:|
-| ✔️ | ✔️ | ✔️ |
-
-</div>
-
-<div align="center">
-
-| 🐬 MySQL |
-|:---:|
-| ✔️ |
-
-</div>
-
-<div align="center">
-
-| 🐍 Python | 🔧 Git | 🐙 GitHub |
-|:---:|:---:|:---:|
-| ✔️ | ✔️ | ✔️ |
-
-</div>  
-
-<div align="center">
-
-| 📚 Curso | 🏫 Instituição | 📅 Conclusão |
-|:---:|:---:|:---:|
-| Análise e Desenvolvimento de Sistemas | UNINASSAU | 2026 |
 
 </div>
 
@@ -99,28 +62,29 @@
 
 </div>
 
----
 <!-- 
+---
+
 <h2 align="center">🔥 Sequência de Contribuições</h2>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MateusLiraFront&theme=tokyonight&hide_border=true"/>
 
-</div> -->
+</div>
 
 ---
-<!-- 
+
 <h2 align="center">🏆 Conquistas</h2>
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=MateusLiraFront&theme=algolia&no-frame=true&column=7"/>
 
-</div> -->
+</div>
 
 ---
-<!-- 
+
 <h2 align="center">🎓 Formação</h2>
 
 <div align="center">
@@ -131,9 +95,9 @@
 
 📅 Conclusão prevista: 2026
 
-</div> -->
+</div>
 
----
+--- -->
 
 <h2 align="center">📫 Contato</h2>
 
@@ -145,8 +109,10 @@
 
 </div>
 
----
+
 <!-- 
+---
+
 <h2 align="center">🐍 Contribuições</h2>
 
 <div align="center">
