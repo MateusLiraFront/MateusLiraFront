@@ -106,6 +106,9 @@
 <a href="https://www.linkedin.com/in/mateus-lira-2b2960328">
   <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<div align="center">
+Transformando ideias em experiências digitais.
+</div>
 
 </div>
 
@@ -120,13 +123,5 @@
 ![Snake animation](https://github.com/MateusLiraFront/MateusLiraFront/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div> -->
-
----
-
-<div align="center">
-
-### 💎 Transformando ideias em experiências digitais.
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:0891B2,100:22D3EE"/>
