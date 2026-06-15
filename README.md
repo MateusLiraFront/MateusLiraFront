@@ -100,27 +100,27 @@
 </div>
 
 ---
-
+<!-- 
 <h2 align="center">🔥 Sequência de Contribuições</h2>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MateusLiraFront&theme=tokyonight&hide_border=true"/>
 
-</div>
+</div> -->
 
 ---
-
+<!-- 
 <h2 align="center">🏆 Conquistas</h2>
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=MateusLiraFront&theme=algolia&no-frame=true&column=7"/>
 
-</div>
+</div> -->
 
 ---
-
+<!-- 
 <h2 align="center">🎓 Formação</h2>
 
 <div align="center">
@@ -131,7 +131,7 @@
 
 📅 Conclusão prevista: 2026
 
-</div>
+</div> -->
 
 ---
 
@@ -146,14 +146,14 @@
 </div>
 
 ---
-
+<!-- 
 <h2 align="center">🐍 Contribuições</h2>
 
 <div align="center">
 
 ![Snake animation](https://github.com/MateusLiraFront/MateusLiraFront/blob/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+</div> -->
 
 ---
 
