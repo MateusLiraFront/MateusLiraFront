@@ -10,46 +10,61 @@
 
 <h2 align="center">💻 Sobre Mim</h2>
 
-```javascript
-const mateus = {
-  cargo: "Estagiário em Desenvolvimento de Software",
-  especialidade: "Front-End Development",
+<div align="center">
 
-  frontend: [
-    "React",
-    "TypeScript",
-    "JavaScript",
-    "HTML5",
-    "CSS3",
-    "Bootstrap",
-    "Tailwind CSS"
-  ],
+| 🚀 Especialidade | 💼 Cargo | 🎓 Formação |
+|:---:|:---:|:---:|
+| Front-End Development | Estagiário em Desenvolvimento de Software | ADS - UNINASSAU |
 
-  backend: [
-    "PHP",
-    "Laravel",
-    "APIs REST"
-  ],
+</div>
 
-  bancoDeDados: [
-    "MySQL"
-  ],
+<div align="center">
 
-  conhecimentos: [
-    "Python",
-    "Git",
-    "GitHub"
-  ],
+| ⚛️ React | 📘 TypeScript | 🟨 JavaScript | 🌐 HTML5 | 🎨 CSS3 |
+|:---:|:---:|:---:|:---:|:---:|
+| ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 
-  formacao: {
-    curso: "Análise e Desenvolvimento de Sistemas",
-    instituicao: "UNINASSAU",
-    conclusao: "2026"
-  }
-}
-```
+</div>
 
----
+<div align="center">
+
+| 🅱️ Bootstrap | 🌊 Tailwind CSS |
+|:---:|:---:|
+| ✔️ | ✔️ |
+
+</div>
+
+<div align="center">
+
+| 🐘 PHP | 🔺 Laravel | 🔌 APIs REST |
+|:---:|:---:|:---:|
+| ✔️ | ✔️ | ✔️ |
+
+</div>
+
+<div align="center">
+
+| 🐬 MySQL |
+|:---:|
+| ✔️ |
+
+</div>
+
+<div align="center">
+
+| 🐍 Python | 🔧 Git | 🐙 GitHub |
+|:---:|:---:|:---:|
+| ✔️ | ✔️ | ✔️ |
+
+</div>  
+
+<div align="center">
+
+| 📚 Curso | 🏫 Instituição | 📅 Conclusão |
+|:---:|:---:|:---:|
+| Análise e Desenvolvimento de Sistemas | UNINASSAU | 2026 |
+
+</div>
 
 <h2 align="center">🚀 Tecnologias</h2>
 
