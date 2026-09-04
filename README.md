@@ -24,7 +24,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/💼_CARGO-0891B2?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/Estagiário_em_Desenvolvimento_de_Software-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desenvolvedor_de_Sistemas-22D3EE?style=for-the-badge"/>
 </div>
 
 </div>
